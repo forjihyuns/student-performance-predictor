@@ -9,7 +9,7 @@
 - **학번:** [202032543]
 - **이름:** [변지현]
 - **개발 환경:** Google Colab, Python, scikit-learn, Streamlit
-- **GitHub URL:** [저장소 주소 입력]
+- **GitHub URL:** [https://github.com/forjihyuns/student-performance-predictor]
 - **Demo URL:** [https://student-performance-predictor-3aryt3ddhnxtf3habf33hd.streamlit.app/]
 
 ## 1. 문제 정의
