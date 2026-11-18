@@ -1,10 +1,10 @@
 
 {
-  "student_id": "학번 입력",
-  "name": "이름 입력",
+  "student_id": "202032543",
+  "name": "변지현",
   "title": "AI 기반 학생 성적 예측 서비스",
   "github_url": "https://github.com/forjihyuns/student-performance-predictor",
-  "demo_url": "Streamlit 실제 주소 입력",
+  "demo_url": "https://student-performance-predictor-3aryt3ddhnxtf3habf33hd.streamlit.app/",
   "data_type": "tabular",
   "training": "scratch",
   "models": [
