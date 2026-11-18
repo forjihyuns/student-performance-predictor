@@ -71,7 +71,9 @@
 
 ### 2.4 데이터 분포
 
-[Colab에서 생성한 최종 성적 분포 그래프 삽입]
+
+![최종 성적 분포](screenshots/grade_distribution%20(1).png)
+  
 
 
 
