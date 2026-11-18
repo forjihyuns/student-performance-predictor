@@ -283,7 +283,7 @@ Streamlit을 활용하여 학생의 학습 정보와 이전 성적을 입력받�
 ## 7. 배포
 
 - 배포 플랫폼: Streamlit Community Cloud
-- 공개 URL: [Streamlit URL 입력]
+- 공개 URL: [https://student-performance-predictor-3aryt3ddhnxtf3habf33hd.streamlit.app/]
 - 소스코드 관리: GitHub Public Repository
 
 사용자는 별도의 설치 없이 웹브라우저에서 서비스에 접속하여 최종 성적을 예측할 수 있습니다.
@@ -292,10 +292,10 @@ Streamlit을 활용하여 학생의 학습 정보와 이전 성적을 입력받�
 
 ### 8.1 실행 환경
 
-- Python: [실제 버전]
-- scikit-learn: [실제 버전]
-- pandas: [실제 버전]
-- numpy: [실제 버전]
+- Python: [3.13.18]
+- scikit-learn: [1.6.1]
+- pandas: [2.2.3]
+- numpy: [2.4.6]
 - Streamlit
 - joblib
 
@@ -363,4 +363,3 @@ streamlit run app.py
 
 ---
 
-본 프로젝트는 머신러닝 학습 과정의 이해와 서비스 프로토타입 구현을 목적으로 제작되었습니다. 예측 결과는 학업 성취도를 확정하거나 학생을 평가하는 용도로 사용해서는 안 됩니다.
